@@ -1,6 +1,9 @@
 # ChartjsAngularAPP
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+## Clone Repository and install packages
+
+Run `npm install` for install dependencys
 
 ## Development server
 
